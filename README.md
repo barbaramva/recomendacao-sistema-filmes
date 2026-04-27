@@ -1,4 +1,4 @@
-# Sistema de Recomendação de Filmes
+# 🎬 Sistema de Recomendação de Filmes
 
 Este projeto foi desenvolvido como parte dos meus estudos no curso de Matemática e Estatística Aplicada para Data Science, Machine Learning e IA da DSA.
 
