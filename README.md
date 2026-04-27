@@ -2,9 +2,9 @@
 
 Este projeto foi desenvolvido como parte dos meus estudos no curso de Matemática e Estatística Aplicada para Data Science, Machine Learning e IA da DSA.
 
-Imagine a seguinte situação: você precisa construir um sistema de recomendação de filmes. Cada vez que um usuário assiste a um filme, o sistema deve recomendar outros filmes semelhantes, com o objetivo de manter o usuário engajado, assim como fazem plataformas de streaming e redes sociais.
+Imagine que você precise construir um sistema de recomendação de filmes. Cada vez que um usuário assiste a um título, o sistema deve sugerir outros semelhantes, com o objetivo de manter o usuário engajado, assim como acontece em plataformas de streaming e redes sociais.
 
-Neste projeto, desenvolvi um sistema de recomendação utilizando a técnica de filtragem baseada em conteúdo. Para isso, utilizei dados reais disponíveis publicamente e analisei características dos filmes, como elenco, diretor e descrição, para encontrar similaridades entre eles.
+Neste projeto, desenvolvi um sistema de recomendação seguindo essa ideia. Utilizei dados reais disponíveis publicamente e analisei características como elenco, diretor e descrição para encontrar conteúdos parecidos. Para isso, usei uma medida matemática chamada cosine similarity, que ajuda a identificar o quão semelhantes os filmes são.
 
 ## O que o projeto faz
 Dado um filme como entrada, o sistema retorna uma lista de filmes semelhantes.
