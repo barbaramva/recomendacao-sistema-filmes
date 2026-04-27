@@ -30,7 +30,6 @@ Dado um filme como entrada, o sistema retorna uma lista de filmes semelhantes.
 ## O que aprendi com esse projeto
 - Trabalhar com dados reais
 - Fazer pré-processamento de dados
-- Aplicar conceitos básicos de NLP
 - Entender como funcionam sistemas de recomendação
 
 ## Este projeto faz parte da minha formação em Ciência de Dados.
