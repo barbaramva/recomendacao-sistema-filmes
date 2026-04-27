@@ -6,6 +6,8 @@ Imagine que você precise construir um sistema de recomendação de filmes. Cada
 
 Neste projeto, desenvolvi um sistema de recomendação seguindo essa ideia. Utilizei dados reais disponíveis publicamente e analisei características como elenco, diretor e descrição para encontrar conteúdos parecidos. Para isso, usei uma medida matemática chamada cosine similarity, que ajuda a identificar o quão semelhantes os filmes são.
 
+Eu não utilizei um modelo de machine learning treinado. Eu utilizei uma abordagem baseada em similaridade (métrica matemática) usando cosine similarity para recomendar itens semelhantes.
+
 ## O que o projeto faz
 Dado um filme como entrada, o sistema retorna uma lista de filmes semelhantes.
 
