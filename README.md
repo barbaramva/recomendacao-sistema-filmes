@@ -23,7 +23,7 @@ Dado um filme como entrada, o sistema retorna uma lista de filmes semelhantes.
 - Scikit-learn
 
 ## Arquivo principal
-- `movie_recommender_system.ipynb`
+- `Projeto.ipynb`
 
 ## O que aprendi com esse projeto
 - Trabalhar com dados reais
